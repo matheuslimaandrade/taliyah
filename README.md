@@ -1,2 +1,0 @@
-# taliyah
-Dev Portfolio

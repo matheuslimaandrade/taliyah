@@ -1,10 +1,11 @@
 import { } from 'react'
-import './App.css'
+import './assets/styles/App.css'
+import Header from './layouts/Header/Header'
 
 function App() {
   return (
     <>
-    
+      <Header/>
     </>
   )
 }

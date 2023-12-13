@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <>
       <div className="py-24 px-96">
-        <div className="py-16 h-80 box-border border-2 rounded-xl">
+        <div className="py-16 h-80 box-border border-2 rounded-xl shadow-md">
           <div className="font-jakarta-bold flex items-center justify-center justify-evenly">
             <div>
               <img
@@ -52,7 +52,7 @@ export default function Hero() {
             </div>
           </div>
           <div className="py-16">
-            <div className="flex justify-evenly px-96 h-24 box-border border-2 rounded-xl">
+            <div className="flex justify-evenly px-96 h-24 box-border border-2 rounded-xl shadow-md">
               <img src="./src/assets/images/instagram.svg" alt="" width={24} />
               <img src="./src/assets/images/github.svg" alt="" width={24} />
               <img src="./src/assets/images/linkedin.svg" alt="" width={24} />

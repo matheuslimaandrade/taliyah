@@ -4,10 +4,10 @@ export default function Header() {
     return (
         <>
             <div className="flex justify-between flex-row items-center py-10 px-96">
-                <div className="font-jakarta text-2xl font-semibold">
+                <div className="font-jakarta-bold text-2xl font-medium">
                     <h1>dev<span className="text-red-600">.</span>matheusandrade</h1>
                 </div>
-                <div className="font-jakarta text-2xl font-semibold">
+                <div className="font-jakarta-bold text-2xl font-medium">
                     <ul className="flex flex-row">
                         <li className="px-4">Home</li>
                         <li className="px-4">About</li>
